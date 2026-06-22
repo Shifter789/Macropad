@@ -1275,7 +1275,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1d79bb42-f8db-47a9-a785-c31084e83d2a")
 		(property "Reference" "#PWR05"
 			(at 161.29 95.25 0)
@@ -1289,7 +1288,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 161.29 93.98 0)
+			(at 164.338 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1525,7 +1524,7 @@
 			)
 		)
 		(property "Value" "ER_OLEDM0.91_1x-I2C"
-			(at 171.958 96.266 90)
+			(at 170.942 96.266 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
